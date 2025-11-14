@@ -1,0 +1,1 @@
+I have learned how to deploy github repo via ssh.
